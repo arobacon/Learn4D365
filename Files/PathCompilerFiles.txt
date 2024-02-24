@@ -1,0 +1,4 @@
+C:\Users\rec365\.vscode\extensions\ms-dynamics-smb.al-6.6.425415\bin
+C:\Users\rec365\.vscode\extensions\ms-dynamics-smb.al-YOURVERSION\bin
+
+Verwenden Sie nur die Dateien ohne Verzeichnisse und kopieren Sie diese in Ihr VS Code Arbeitsverzeichnis

@@ -1,0 +1,4 @@
+Install-Module -Name BcContainerHelper -RequiredVersion 2.0.6
+Download-Artifacts -artifactUrl (Get-BCArtifactUrl) -includePlatform 
+
+Prüfen Sie danach den Ordner: C:\bcartifacts.cache
